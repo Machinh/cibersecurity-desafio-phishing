@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./https://github.com/Machinh/cibersecurity-desafio-phishing/blob/main/Captura%20de%20tela%20de%202024-10-27%2011-18-00.png "Optional title")
+![Alt text](./resultado.png "Optional title")
